@@ -55,7 +55,7 @@ li a:hover:not(.active) {
   font-size: 300%;
   color:#C8EAD3;
 
-  background-image: url(ProfilePic.jpg);
+  background-image: url(Assets/ProfilePic.jpg);
   background-size: cover;
   text-align: center;
   text-shadow: #695958 5px ;
@@ -113,7 +113,7 @@ li a:hover:not(.active) {
   
 }
 .para{
-  background-image: url('nightback.jpg');
+  background-image: url('Assets/nightback.jpg');
   background-size: cover;
   text-align: center;
   padding: 20px 0;
